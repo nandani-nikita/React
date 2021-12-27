@@ -4,6 +4,7 @@ import { Profile } from './Profile';
 import { Directory } from './Directory';
 
 class App extends React.Component {
+  
   constructor(props) {
     super(props);
     this.state = {

@@ -54,7 +54,7 @@ const FAKE_USER_DATA = {
     }, delay);
   
     timeoutByFetchId.set(fetch._id, timeout);
-  
+
     return fetch;
   }
   
